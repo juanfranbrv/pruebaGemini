@@ -1,0 +1,5 @@
+{
+  "name": "AI Baldifier",
+  "description": "Upload a photo of a person and this application will use AI to generate an image of them without hair. A before-and-after slider makes it easy to compare the original and the result.",
+  "requestFramePermissions": []
+}
